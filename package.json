@@ -1,0 +1,15 @@
+{
+  "name": "priyarya",
+  "version": "1.0.0",
+  "description": "Chat Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arya Soni",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  }
+}
